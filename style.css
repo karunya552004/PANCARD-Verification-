@@ -1,0 +1,13 @@
+.PAN
+    {
+        text-transform: uppercase;
+    }
+    .error
+    {
+        color: Red;
+        visibility: hidden;
+    }
+   .pa{
+    text-align: center;
+    margin:200px;
+   }
